@@ -321,3 +321,10 @@ footer hr {
   
 }
 
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover { /* or some other value */
+    transform:scale(1.2);
+}
