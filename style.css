@@ -326,5 +326,5 @@ img {
 }
 
 img:hover { /* or some other value */
-    transform:scale(1.2);
+    transform:scale(1.12);
 }
